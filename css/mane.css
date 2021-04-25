@@ -1,0 +1,132 @@
+/*Start Header*/
+.img-1 {
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	margin: 20px 0px 30px 30px;
+	vertical-align: middle;
+}
+    /*Start Navigation*/
+.nav-1, li {
+	display: inline-block;
+	margin: 20px 0px 30px 30px;
+	vertical-align: middle;
+	font-size: 22px;
+	font-family: 'BPG Nino Mtavruli';
+	font-weight: bold;
+}
+
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px
+}
+
+.mtavari {
+	color: #EE4036;
+	text-decoration: none; 
+}
+
+.siakhle {
+	text-decoration: none; 
+	color: #3D58A6;
+}
+
+.kontaqti {
+	text-decoration: none; 
+	color: #3D58A6;
+}
+    /*End Navigation*/
+/*End Header*/
+
+
+/*Start Section*/
+.bg {
+	background-color: #E6E6E6;
+	background-size: 50px;
+	background-: center; 
+}
+
+.contact {
+	line-height: 0.3;
+	font-size: 16px;
+	padding: 30px 30px; 
+	display: inline-block;	
+	vertical-align: top;
+	font-family: 'BPG Ingiri Arial';
+}
+
+p span {
+	color: #808080;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli';
+	font-weight: bold;
+}
+
+.map {
+	display: inline-block;
+	margin: 30px 30px;
+	vertical-align: middle;
+}
+
+iframe {
+	border:0px;
+	width: 600px; 
+	height: 450px; 
+}
+
+
+/*Start Footer*/
+.facebook {
+	width: 15px;
+	height: 30px;
+	display: inline-block;
+	margin: 30px 20px 30px 30px;
+}
+
+.line {
+	border-right: 2px solid #363E97;
+	height: 30px;
+	position: absolute;
+	display: inline-block;
+	margin: 30px 20px 30px 0px
+}
+
+.youtube {
+	width: 25px;
+	height: 30px;
+	display: inline-block;
+	margin: 30px 0px 30px 25px;
+}
+
+
+
+/*Fonts*/
+@font-face {
+  font-family: ''BPG Nino Mtavruli'';
+    src: url('fonts/BPGNinoMtavruli/BPGNinoMtavruli.eot'); /* IE9 Compat Modes */
+    src: url('fonts/BPGNinoMtavruli/BPGNinoMtavruli.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/BPGNinoMtavruli/BPGNinoMtavruli.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/BPGNinoMtavruli/BPGNinoMtavruli.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/BPGNinoMtavruli/BPGNinoMtavruli.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/BPGNinoMtavruli/BPGNinoMtavruli.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BPG Ingiri Arial';
+    src: url('fonts/BPGIngiriArial/BPGIngiriArial.eot');
+    src: url('fonts/BPGIngiriArial/BPGIngiriArial.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BPGIngiriArial/BPGIngiriArial.woff2') format('woff2'),
+        url('fonts/BPGIngiriArial/BPGIngiriArial.woff') format('woff'),
+        url('fonts/BPGIngiriArial/BPGIngiriArial.ttf') format('truetype'),
+        url('fonts/BPGIngiriArial/BPGIngiriArial.svg#BPGIngiriArial') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
