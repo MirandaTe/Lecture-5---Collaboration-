@@ -1,0 +1,142 @@
+.navbar {
+	display: inline-block;
+	vertical-align: top;
+}
+.img-logo {
+	width: 100.18px;
+	height: 30.57px;
+	margin: 30px 0 0 30px;
+	display: inline-block;
+
+}
+ul a {
+	font-size: 22px;
+	margin-top: 30.77px;
+	display: inline-block;
+	
+}
+.li-main {
+	display: inline-block;
+	margin-left: 49.81px;
+
+}
+.li-news {
+	display: inline-block;
+	margin-left: 18px;
+}
+.li-cont {
+	display: inline-block;
+    margin-left: 30px;
+}
+.blue {
+	color: #3D58A6;
+}
+.red {
+	color: #EE4036;
+}
+.img-box {
+	width: 928px;
+	height: 594px;
+	margin-left: 38px;
+	margin-top: 26.43px;
+}
+h3 {
+	font-size: 24px;
+	margin-left: 38px;
+	margin-top: 34.22px;
+	color: #000000;
+}
+.main-box {
+	display: inline-block;
+	margin-top: 29.78px;
+}
+.left-box {
+	background-color: #F2F2F2;
+	margin-left: 38px;
+	display: inline-block;
+	width: 570px;
+	height: 225px;
+	vertical-align: top;
+}
+.right-box {
+	display: inline-block;
+	background-color: #F2F2F2;
+	margin-left: 89px;
+	width: 570px;
+	height: 225px;
+	vertical-align: top;
+
+}
+.title-1 {
+	color: #3D58A6;
+	font-size: 22px;
+	margin-left: 20.77px;
+	margin-top: 11.05px;
+}
+.title-2 {
+	font-size: 22px;
+	color: #3D58A6;
+	margin-top: 11.05px;
+	margin-left: 20.28px;
+}
+.img-left {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 12.72px;
+	margin-left: 36.78px;
+	width: 102.87px;
+	height: 145.5px;
+}
+.img-right {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 12.72px;
+	margin-left: 39.97px;
+	width: 84.81px;
+	height: 127.51px;
+}
+.p-left {
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 12.72px;
+	margin-left: 65.42px;
+	color: #333333;
+	width: 355px;
+	height: 143.29px;
+
+}
+.p-right {
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 12.72px;
+	margin-left: 76.29px;
+	width: 353.49px;
+	height: 156.78px;
+	color: #58595B;
+}
+.img-1 {
+	display: inline-block;
+	vertical-align: top;
+}
+.img-2 {
+	display: inline-block;
+	vertical-align: top;
+}
+.img-face {
+	width: 14px;
+	height: 30px;
+	margin-left: 49.53px;
+	margin-top: 68.29px;
+	display: inline-block;
+	border-right: 1px solid #363E97;
+	padding-right: 35.6px;
+}
+.img-youtube {
+	width: 24.81px;
+	height: 30px;
+	margin-top: 68.29px;
+	margin-left: 29.2px;
+	display: inline-block;
+}
